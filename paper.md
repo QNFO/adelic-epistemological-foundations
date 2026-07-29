@@ -3,7 +3,7 @@ title: "The Adelic Physics Program: Epistemological Foundations and Communicatio
 author: "Rowan Brad Quni-Gudzinas"
 date: "2026-07-29"
 license: "CC-BY-4.0"
-doi: "10.5281/zenodo.21685479"
+doi: "10.5281/zenodo.21686588"
 status: "published"
 ---
 
@@ -27,7 +27,7 @@ The QNFO Adelic Physics Program has developed this argument across 56 published 
 
 This paper is structured as a progressive disclosure. Section 2 identifies ℝ as an unjustified assumption. Section 3 presents the number-theoretic foundations: Ostrowski's theorem and Tate's thesis. Section 4 develops a constructive account of number systems from distinction primitives — the Laws of Form (LoF) Number Builder — and traces the historical stratigraphy of measurement. Section 5 presents the Gisin–Del Santo programme's independent convergence on the same conclusion: real numbers are the hidden variables of classical mechanics [@gisin2019real; @del-santo-gisin2019]. Section 6 presents the physical geometry of Bruhat-Tits trees and their connection to Standard Model mass ratios. Section 7 outlines ultrametric quantum computation. Section 8 connects the programme to Langlands physics via S-duality [@kapustin-witten2006]. Section 9 addresses the pedagogical challenge — domain translation errors — and Section 10 develops an observer-centered epistemology. Section 11 concludes with the implications of taking ℚ seriously as the physical base field.
 
-**A note on scope and evidence [meta — self-disclosure].** The majority of papers cited in this document are internal to the QNFO programme. The scientific content surveyed in Sections 3–8 has been developed and published within a single research programme over approximately three years. The core mathematical anchor — Ostrowski's theorem (1916) [@ostrowski1916] — is a century-old, independently verified result. The Gisin–Del Santo programme [@gisin2019real; @del-santo-gisin2019] provides convergent, independently developed evidence for the finite-information thesis without any awareness of the adelic programme. The experimental observation of Zitterbewegung [@gerritsma2010zbw] is an independent laboratory result. Beyond these anchors, independent experimental validation of specific adelic predictions — the Bruhat-Tits mass ratio scheme, the adelic FFT processor, the room-temperature qubit — remains an open challenge. This paper does not present new experimental evidence; it provides the epistemological framework for understanding the theoretical programme that those experiments would test.
+**What this paper is and is not [meta — scope disclosure].** The majority of papers cited in this document are internal to the QNFO programme. The scientific content surveyed in Sections 3–8 has been developed and published within a single research programme over approximately three years. The core mathematical anchor — Ostrowski's theorem (1916) [@ostrowski1916] — is a century-old, independently verified result. The Gisin–Del Santo programme [@gisin2019real; @del-santo-gisin2019] provides convergent, independently developed evidence for the finite-information thesis without any awareness of the adelic programme. The experimental observation of Zitterbewegung [@gerritsma2010zbw] is an independent laboratory result. Beyond these anchors, independent experimental validation of specific adelic predictions — the Bruhat-Tits mass ratio scheme, the adelic FFT processor, the room-temperature qubit — remains an open challenge. This paper does not present new experimental evidence; it provides the epistemological framework for understanding the theoretical programme that those experiments would test.
 
 ---
 
@@ -186,9 +186,9 @@ An adelic FFT processor — a physical device that performs harmonic analysis on
 3. **Hecke coupling:** Apply Hecke operators to enforce the global restricted-product constraint — this step couples all places simultaneously and is the computational bottleneck
 4. **Archimedean readout:** Physical measurement at the Archimedean place, producing f̂_∞ as the observable output
 
-The key architectural insight is a hardware/software co-design: p-adic computations are noise-protected by the ultrametric (passive QEC), while the Archimedean readout interfaces with human observers. The adelic nuclear-spin qubit architecture operates at room temperature [@rtaq-adelic-qubit], eliminating the multi-million-dollar dilution refrigerator requirement that constrains superconducting qubit platforms [speculative — hardware specification, not yet experimentally validated
+The key architectural insight is a hardware/software co-design: p-adic computations are noise-protected by the ultrametric (passive QEC), while the Archimedean readout interfaces with human observers. The adelic nuclear-spin qubit architecture operates at room temperature [@rtaq-adelic-qubit], eliminating the multi-million-dollar dilution refrigerator requirement that constrains superconducting qubit platforms [speculative — hardware specification, not yet experimentally validated]
 
-> **Further Reading:** Ultrametric Quantum Computation and the Langlands Program [@ultrametric-qc-langlands] (DOI: 10.5281/zenodo.20036379) and Room-Temperature Adelic Nuclear-Spin Qubit v2.0 [@rtaq-adelic-qubit] (DOI: 10.5281/zenodo.21330960) provide the full technical specification of the computational architecture and qubit design.].
+> **Further Reading:** Ultrametric Quantum Computation and the Langlands Program [@ultrametric-qc-langlands] (DOI: 10.5281/zenodo.20036379) and Room-Temperature Adelic Nuclear-Spin Qubit v2.0 [@rtaq-adelic-qubit] (DOI: 10.5281/zenodo.21330960) provide the full technical specification of the computational architecture and qubit design.
 
 ---
 
@@ -207,6 +207,8 @@ The Langlands Program — a grand web of conjectures linking number theory and g
 ### 8.2 FFT as Computational Langlands
 
 The Fast Fourier Transform (FFT) on the additive group ℝ/ℤ has a precise interpretation as the Langlands correspondence for GL(1) at the Archimedean place [@fft-computational-langlands]. The adelic FFT processor extends this interpretation: the global FFT on the adele ring is the computational realization of the Langlands correspondence for GL(1) at all places simultaneously. This provides a concrete, computable entry point into the Langlands programme for physicists — the FFT they already know is Langlands in disguise.
+
+> **Further Reading:** Adelic Langlands Physics [@adelic-langlands-physics] (DOI: 10.5281/zenodo.21609889) develops the full unified framework, and FFT as Computational Langlands [@fft-computational-langlands] (DOI: 10.5281/zenodo.21628383) provides the concrete computational entry point.
 
 ---
 

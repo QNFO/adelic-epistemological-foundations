@@ -1,9 +1,9 @@
 ---
-title: "The Adelic Physics Program: Epistemological Foundations and Communications Framework"
+title: "The Adelic Physics Program: Epistemological Foundations and Communications Framework — A Synthesis and Survey"
 author: "Rowan Brad Quni-Gudzinas"
 date: "2026-07-29"
 license: "CC-BY-4.0"
-doi: "10.5281/zenodo.21685451"
+doi: "10.5281/zenodo.21685479"
 status: "published"
 ---
 
@@ -79,6 +79,8 @@ Tate's 1950 thesis [@tate1950] reformulated Hecke L-functions (including the Rie
 
 The adelic product formula — ∏_v |x|_v = 1 for all x ∈ ℚ^× — is the number-theoretic analogue of a conservation law. Every rational number has a total "valuation" of 1 across all places simultaneously.
 
+> **Further Reading:** Tate's Thesis as a Template for Adelic Quantum Mechanics [@tate-adelic-template] (DOI: 10.5281/zenodo.21600741) and Consilience Between Physics and Number Theory [@consilience-physics-numtheory] (DOI: 10.5281/zenodo.21590155) provide the technical foundation for the adelic formulation of quantum mechanics.
+
 ---
 
 ## 4. Constructing Numbers from Distinctions
@@ -114,6 +116,8 @@ The history of number systems is a history of expanding the frontier of what we 
 
 This stratigraphy reveals a crucial asymmetry: the step from ℚ to ℝ_comp (step 5) is constructive, while the step from ℝ_comp to ℝ (step 6) is projective and lossy. The non-constructive reals — the vast uncountable majority of ℝ — are artifacts of the projection, not products of distinction operations. Physics has never needed them.
 
+> **Further Reading:** The LoF Number Builder interactive specification v1.0 (QNFO paper) provides the full formal development of the six-step construction with worked examples.
+
 ---
 
 ## 5. The Gisin–Del Santo Programme: Independent Convergence
@@ -136,6 +140,8 @@ This is precisely the Autaxys Ontological Closure (OC) boundary between measurab
 
 **Convergent evidence (independent of QNFO):** The Bekenstein bound independently constrains a finite region of spacetime to contain finite information. If real numbers require infinite information to specify, and spacetime regions have finite information capacity, then real numbers cannot be physically realized in any finite region. This is a constraint from general relativity and thermodynamics, not from the adelic programme.
 
+> **Further Reading:** Finite Specification, Ontological Indeterminism [@finite-precision-oc-convergence] (DOI: 10.5281/zenodo.21647362) provides the detailed convergence analysis between the Gisin–Del Santo programme and Autaxys Ontological Closure.
+
 ---
 
 ## 6. Bruhat-Tits Trees as Physical Geometry
@@ -149,6 +155,8 @@ The product tree T_2 × T_3 × T_5, with its diagonal embedding into the Pythago
 - m_τ / m_d = 20.02 vs. 2^2 · 5 = 20 (exact)
 
 **Convergent evidence (independent of QNFO):** Chen, Liu, and Hung (2024) [@chen-liu-hung2024] independently treat the Bruhat-Tits tree as a physical geometry, constructing a p-adic BTZ black hole on T_p. This provides convergent evidence from a separate research programme that BT trees can function as spacetime geometries.
+
+> **Further Reading:** Compton Frequency Cross-Ratios on Bruhat-Tits Trees v2.3 [@compton-cross-ratios-v2] (DOI: 10.5281/zenodo.21485556) and Zitterbewegung: From Archimedean Puzzle to Adelic Observable [@zbw-adelic-observable] (DOI: 10.5281/zenodo.21609223) provide the technical foundation for BT tree physics and the ZBW interpretation.
 
 ### 6.2 Zitterbewegung as ℝ/ℚ_2 Topological Mixing
 
@@ -178,7 +186,9 @@ An adelic FFT processor — a physical device that performs harmonic analysis on
 3. **Hecke coupling:** Apply Hecke operators to enforce the global restricted-product constraint — this step couples all places simultaneously and is the computational bottleneck
 4. **Archimedean readout:** Physical measurement at the Archimedean place, producing f̂_∞ as the observable output
 
-The key architectural insight is a hardware/software co-design: p-adic computations are noise-protected by the ultrametric (passive QEC), while the Archimedean readout interfaces with human observers. The adelic nuclear-spin qubit architecture operates at room temperature [@rtaq-adelic-qubit], eliminating the multi-million-dollar dilution refrigerator requirement that constrains superconducting qubit platforms [speculative — hardware specification, not yet experimentally validated].
+The key architectural insight is a hardware/software co-design: p-adic computations are noise-protected by the ultrametric (passive QEC), while the Archimedean readout interfaces with human observers. The adelic nuclear-spin qubit architecture operates at room temperature [@rtaq-adelic-qubit], eliminating the multi-million-dollar dilution refrigerator requirement that constrains superconducting qubit platforms [speculative — hardware specification, not yet experimentally validated
+
+> **Further Reading:** Ultrametric Quantum Computation and the Langlands Program [@ultrametric-qc-langlands] (DOI: 10.5281/zenodo.20036379) and Room-Temperature Adelic Nuclear-Spin Qubit v2.0 [@rtaq-adelic-qubit] (DOI: 10.5281/zenodo.21330960) provide the full technical specification of the computational architecture and qubit design.].
 
 ---
 

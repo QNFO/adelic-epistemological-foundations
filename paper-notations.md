@@ -3,8 +3,8 @@ title: "The Notation Problem: Category-Theoretic Scaffold-Stripping of Six Margi
 author: "Rowan Brad Quni-Gudzinas"
 date: "2026-07-29"
 license: "CC-BY-4.0"
-doi: "PENDING"
-status: "draft"
+doi: "10.5281/zenodo.21690262"
+status: "published"
 ---
 
 **Author:** Rowan Brad Quni-Gudzinas | **Date:** 2026-07-29 | **License:** CC-BY-4.0

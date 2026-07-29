@@ -1,0 +1,13 @@
+{
+  "concept_doi": "10.5281/zenodo.21690261",
+  "latest_deposit_id": "21690262",
+  "versions": [
+    {
+      "doi": "10.5281/zenodo.21690262",
+      "deposit_id": "21690262",
+      "tag": "v1.0-notations",
+      "published_at": "2026-07-29",
+      "title": "The Notation Problem: Scaffold-Stripping + DCN"
+    }
+  ]
+}

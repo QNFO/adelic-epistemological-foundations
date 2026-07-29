@@ -3,7 +3,8 @@ title: "The Adelic Physics Program: Epistemological Foundations and Communicatio
 author: "Rowan Brad Quni-Gudzinas"
 date: "2026-07-29"
 license: "CC-BY-4.0"
-status: "draft"
+doi: "10.5281/zenodo.21685451"
+status: "published"
 ---
 
 **Author:** Rowan Brad Quni-Gudzinas | **Date:** 2026-07-29 | **License:** CC-BY-4.0

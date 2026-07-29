@@ -1,6 +1,6 @@
 {
   "concept_doi": "10.5281/zenodo.21690261",
-  "latest_deposit_id": "21690631",
+  "latest_deposit_id": "21690832",
   "versions": [
     {
       "doi": "10.5281/zenodo.21690262",
@@ -15,6 +15,13 @@
       "tag": "v1.0-alpha-bifurcation",
       "published_at": "2026-07-29",
       "title": "Alpha as Bifurcation Parameter"
+    },
+    {
+      "doi": "10.5281/zenodo.21690832",
+      "deposit_id": "21690832",
+      "tag": "v1.0-poisson-adelic",
+      "published_at": "2026-07-29",
+      "title": "Poisson Summation as the Adelic Bridge"
     }
   ]
 }

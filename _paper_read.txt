@@ -1,9 +1,9 @@
----
+﻿---
 title: "The Adelic Physics Program: Epistemological Foundations and Communications Framework — A Synthesis and Survey"
 author: "Rowan Brad Quni-Gudzinas"
 date: "2026-07-29"
 license: "CC-BY-4.0"
-doi: "10.5281/zenodo.21686727"
+doi: "10.5281/zenodo.21686588"
 status: "published"
 ---
 
@@ -26,8 +26,6 @@ This paper argues that the choice of ℝ as the base field of physics is an unju
 The QNFO Adelic Physics Program has developed this argument across 56 published papers [@adelic-langlands-physics; @measure-theoretic-artifacts-v2; @consilience-physics-numtheory; @tate-adelic-template; @zbw-adelic-observable; @fft-computational-langlands; @finite-precision-oc-convergence; @ultrametric-qc-langlands; @compton-cross-ratios-v2]. The core scientific claims are established. What the programme has lacked — and what this paper provides — is a coherent epistemological and pedagogical framework that makes the argument accessible to the working physicist.
 
 This paper is structured as a progressive disclosure. Section 2 identifies ℝ as an unjustified assumption. Section 3 presents the number-theoretic foundations: Ostrowski's theorem and Tate's thesis. Section 4 develops a constructive account of number systems from distinction primitives — the Laws of Form (LoF) Number Builder — and traces the historical stratigraphy of measurement. Section 5 presents the Gisin–Del Santo programme's independent convergence on the same conclusion: real numbers are the hidden variables of classical mechanics [@gisin2019real; @del-santo-gisin2019]. Section 6 presents the physical geometry of Bruhat-Tits trees and their connection to Standard Model mass ratios. Section 7 outlines ultrametric quantum computation. Section 8 connects the programme to Langlands physics via S-duality [@kapustin-witten2006]. Section 9 addresses the pedagogical challenge — domain translation errors — and Section 10 develops an observer-centered epistemology. Section 11 concludes with the implications of taking ℚ seriously as the physical base field.
-
-**Reading path [meta — guidance].** For the busy physicist: read §1 (scope), §2 (the core argument), and §11 (what changes). For the philosopher of physics: add §5 (Gisin–Del Santo) and §10 (observer epistemology). For the quantum computing researcher: add §7 (ultrametric QC) and §9 (domain translation errors). For the number theorist: add §3 (Ostrowski/Tate) and §4 (LoF Number Builder). Each survey section (§§3–8) ends with a "Further Reading" block pointing to the underlying technical paper.
 
 **What this paper is and is not [meta — scope disclosure].** The majority of papers cited in this document are internal to the QNFO programme. The scientific content surveyed in Sections 3–8 has been developed and published within a single research programme over approximately three years. The core mathematical anchor — Ostrowski's theorem (1916) [@ostrowski1916] — is a century-old, independently verified result. The Gisin–Del Santo programme [@gisin2019real; @del-santo-gisin2019] provides convergent, independently developed evidence for the finite-information thesis without any awareness of the adelic programme. The experimental observation of Zitterbewegung [@gerritsma2010zbw] is an independent laboratory result. Beyond these anchors, independent experimental validation of specific adelic predictions — the Bruhat-Tits mass ratio scheme, the adelic FFT processor, the room-temperature qubit — remains an open challenge. This paper does not present new experimental evidence; it provides the epistemological framework for understanding the theoretical programme that those experiments would test.
 

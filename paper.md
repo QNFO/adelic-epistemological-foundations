@@ -21,7 +21,7 @@ The QNFO Adelic Physics Program proposes that the physically accessible base fie
 
 Physics today operates exclusively at the ∞-place — the Archimedean completion ℝ. Quantum mechanics, quantum field theory, general relativity, and the Standard Model are all formulated over the real numbers (or their complex extension ℂ). This choice is so deeply embedded in the practice of physics that most physicists have never considered it a choice at all. It appears as natural as using base-10 arithmetic — a convention so fundamental it is invisible.
 
-This paper argues that the choice of ℝ as the base field of physics is an unjustified assumption with measurable consequences. The physically accessible numbers are rational — every measurement produces a rational number, every computer simulation operates on finite-precision approximations, and every number that has ever appeared in a physics paper (π, e, √2, the fine-structure constant α) is computable — meaning it can be approximated to arbitrary precision by a finite rational procedure. If ℚ is the physically accessible base field, then Ostrowski's theorem (1916) [@ostrowski1916] — which classifies all completions of ℚ — becomes a physical organizing principle, not merely a mathematical curiosity.
+This paper argues that the choice of ℝ as the base field of physics is an unjustified assumption with measurable consequences. The physically accessible numbers are rational — every measurement produces a rational number, every computer simulation operates on finite-precision approximations, and every number that has ever appeared in a physics paper (π, e, √2, the fine-structure constant α) is computable — meaning it can be approximated to arbitrary precision by a finite rational procedure. If ℚ is the physically accessible base field, then Ostrowski's theorem (1916) [@ostrowski1916] — which classifies all completions of ℚ — becomes a physical organizing principle, not a mathematical curiosity.
 
 The QNFO Adelic Physics Program has developed this argument across 56 published papers [@adelic-langlands-physics; @measure-theoretic-artifacts-v2; @consilience-physics-numtheory; @tate-adelic-template; @zbw-adelic-observable; @fft-computational-langlands; @finite-precision-oc-convergence; @ultrametric-qc-langlands; @compton-cross-ratios-v2]. The core scientific claims are established. What the programme has lacked — and what this paper provides — is a coherent epistemological and pedagogical framework that makes the argument accessible to the working physicist.
 
@@ -120,7 +120,7 @@ Gisin observes that this is structurally identical to hidden-variable theories: 
 
 ### 5.2 Finite Information Quantities
 
-Del Santo and Gisin [@del-santo-gisin2019] develop this into a full alternative theory of classical mechanics. They propose **Finite Information Quantities (FIQs):** at each point in time, a physical quantity is determined only up to finite precision. The digits beyond that precision are **genuinely indeterminate** — not merely unknown, but ontologically undefined. When a chaotic system amplifies an undetermined digit into a macroscopically relevant one, that digit must become determinate through a process they identify as a classical measurement problem, structurally parallel to the quantum measurement problem.
+Del Santo and Gisin [@del-santo-gisin2019] develop this into a full alternative theory of classical mechanics. They propose **Finite Information Quantities (FIQs):** at each point in time, a physical quantity is determined only up to finite precision. The digits beyond that precision are **genuinely indeterminate** — not unknown, but ontologically undefined. When a chaotic system amplifies an undetermined digit into a macroscopically relevant one, that digit must become determinate through a process they identify as a classical measurement problem, structurally parallel to the quantum measurement problem.
 
 The alternative theory makes precisely the same empirical predictions as standard classical mechanics. The difference is ontological: where standard theory treats all digits as determined *ab initio*, the FIQ theory treats undetermined digits as becoming determinate through time-developing processes. This distinction between **geometric time** (deterministic parametrization) and **creative time** (novel information creation) is developed further in subsequent work.
 
@@ -238,7 +238,7 @@ If ℚ is the physical base field:
 
 2. **The Ostrowski Programme clears.** The deepest unexamined premise of physics — that ℝ is the natural base field — is examined and defended. The adelic programme is the consequence of taking that examination seriously.
 
-3. **Hensel Codes are not merely a computational trick.** They reflect the actual ℚ-based structure of arithmetic. p-adic numbers are not exotic — they are completions of the same ℚ that physicists use every day.
+3. **Hensel Codes are not a computational trick.** They reflect the actual ℚ-based structure of arithmetic. p-adic numbers are not exotic — they are completions of the same ℚ that physicists use every day.
 
 4. **The Gisin–Del Santo programme converges with OC.** The argument that real numbers are hidden variables and that physics requires only finite information quantities provides independent, non-QNFO support for the ℚ-as-base-field thesis.
 

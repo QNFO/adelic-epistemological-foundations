@@ -31,7 +31,7 @@ These explanations are sociological and may be true. But they leave open a deepe
 
 ### 1.2 The Scaffold-Stripping Hypothesis
 
-We propose: **all six marginalised formalisms contain valid mathematical invariants that, when expressed in standard category-theoretic language, become indistinguishable from canonical mathematics.** The marginalisation is a notation problem, not a content problem. If this hypothesis holds, the formalisms are not failed — they are notation-imprisoned. Recovery requires **scaffold-stripping**: extracting the invariant and discarding the notation.
+We propose: [SPECULATIVE] **all six marginalised formalisms contain valid mathematical invariants that, when expressed in standard category-theoretic language, become indistinguishable from canonical mathematics.** The marginalisation is a notation problem, not a content problem. If this hypothesis holds, the formalisms are not failed — they are notation-imprisoned. Recovery requires **scaffold-stripping**: extracting the invariant and discarding the notation.
 
 This hypothesis is falsifiable. If a formalism's invariant *cannot* be expressed in category-theoretic language without loss, that formalism genuinely lacks mathematical content and its marginalisation is merited.
 
@@ -98,37 +98,37 @@ eg$). This makes logical consequence a matter of diagram transformation rather t
 
 For each formalism, we strip the notation-specific scaffold and express the invariant in standard category-theoretic language.
 
-### 3.1 Laws of Form  \rightarrow  Idempotent Monad on a 2-Category of Distinctions
+### 3.1 Laws of Form  [UNTESTED]  \rightarrow  Idempotent Monad on a 2-Category of Distinctions
 
 The primitive act — drawing a distinction that separates a space into marked and unmarked — maps naturally to an idempotent monad $T: \mathcal{C} \to \mathcal{C}$ on a 2-category $\mathcal{C}$ whose objects are spaces (contexts), 1-morphisms are distinctions (acts of separation), and 2-morphisms are transformations of distinctions. The unit $\eta: 1_{\mathcal{C}} \to T$ introduces the mark; the multiplication $\mu: T^2 \to T$ satisfies idempotence $T^2 \cong T$ (corresponding to Calling: repetition collapses). The re-entry construction corresponds to a fixed point of $T$ in the 2-categorical sense — an object $X$ with an isomorphism $\eta_X: X \cong TX$.
 
 This translation reveals that LoF is not an alternative to mathematics but a *2-categorical logic of distinctions* — a structure wholly compatible with mainstream category theory.
 
-### 3.2 Existential Graphs  \rightarrow  Topos-Theoretic Subobject Classifier Morphism
+### 3.2 Existential Graphs  [UNTESTED]  \rightarrow  Topos-Theoretic Subobject Classifier Morphism
 
 The cut (negation as enclosure) is the characteristic morphism $\chi_A: A \to \Omega$ in a topos, where $\Omega$ is the subobject classifier. Conjunction is the product in the internal logic; disjunction is the coproduct; implication is the exponential. The sheet of assertion is the terminal object `1`. Peirce's diagrammatic transformations are precisely the commuting diagrams of the internal language of a topos.
 
 This translation reveals that Existential Graphs are not a rival to algebraic logic but a *diagrammatic presentation of topos logic* — the same structure, a different interface.
 
-### 3.3 Viable System Model  \rightarrow  Endofunctor with Fixed Point
+### 3.3 Viable System Model  [UNTESTED]  \rightarrow  Endofunctor with Fixed Point
 
 Beer's recursive viability condition is an endofunctor $V: Sys \to Sys$ where `V(S)` is the VSM-organised version of system `S`. Viability is the condition that $V(S) \cong S$ — a fixed point. The five subsystems are natural transformations that collectively establish the isomorphism. The recursion (a system contains and is contained by other systems) is the closure of `V` under composition.
 
 This translation reveals that VSM is not management folklore but a *fixed-point semantics for self-organising systems* — a structure with formal content independent of its application domain.
 
-### 3.4 Catastrophe Theory  \rightarrow  Sheaf of Singularity Unfoldings
+### 3.4 Catastrophe Theory  [UNTESTED]  \rightarrow  Sheaf of Singularity Unfoldings
 
 Thom's classification of elementary catastrophes is the local structure of a sheaf $\mathcal{S}$ over a stratified space `M` of control parameters. The stalk $\mathcal{S}_x$ at a point $x ∈ M$ is the germ of the potential function at `x`. The stratification separates regions of structural stability from catastrophe sets (singularities). The seven elementary catastrophes are the possible local models of $\mathcal{S}$ near a singular point in up to four dimensions.
 
 This translation reveals that Catastrophe Theory is not overreach but *singularity theory expressed in sheaf-theoretic language* — a mature branch of differential topology.
 
-### 3.5 Pattern Language  \rightarrow  Coalgebra for a Pattern-Composition Functor
+### 3.5 Pattern Language  [UNTESTED]  \rightarrow  Coalgebra for a Pattern-Composition Functor
 
 A pattern `P` is a state of a coalgebra $\gamma: Pat \to F(Pat)$ for an endofunctor `F` that encodes admissible compositions. The terminal coalgebra (if it exists) is the set of all pattern languages that can be generated from atomic patterns. A pattern language is a tree in this coalgebra. Alexander's generative grammar is the unfolding of the coalgebra.
 
 This translation reveals that Pattern Language is not architectural intuition but a *coalgebraic generative grammar* — a structure isomorphic to the algebraic semantics of programming languages and process calculi.
 
-### 3.6 Polycontextural Logic  \rightarrow  Presheaf of Heyting Algebras
+### 3.6 Polycontextural Logic  [UNTESTED]  \rightarrow  Presheaf of Heyting Algebras
 
 The truth-value space of a contexture is a Heyting algebra `H(U)`. Contextures form a site $\mathcal{C}$ (a category with a Grothendieck topology). The truth-value assignment is a presheaf $H: \mathcal{C}^op \to Heyting$ where `H(U)` is the Heyting algebra of truth-values in contexture `U`, and the restriction map $H(f): H(V) \to H(U)$ for $f: U \to V$ is the order relation between contextures. Junctions are gluing conditions in the presheaf.
 
@@ -164,6 +164,25 @@ Three possible resolutions:
 We do not resolve this question here. We note that the hypothesis remains falsifiable: if a formalism's invariant cannot be expressed in category-theoretic language, its marginalisation is merited. The burden of proof lies with the sceptic to identify which invariant resists translation — not with the hypothesis to pre-emptively defend against an unspecified objection.
 
 ---
+
+
+
+---
+
+## 4.5 Where External Literature Constrains the Scaffold-Stripping Hypothesis
+
+The scaffold-stripping hypothesis claims that all six marginalised formalisms contain valid category-theoretic invariants and that their marginalisation is a notation problem, not a content problem. The following evidence constrains this claim.
+
+**Kauffman's incomplete mainstreaming. ** Louis Kauffman, a respected mathematician, has published multiple papers connecting LoF to topology and category theory in accessible, rigorous form [8, 9, 10]. Despite this, LoF has not entered mainstream mathematics. This constrains the hypothesis in two ways: (a) it shows that notation alone does not explain marginalisation — Kauffman wrote in standard notation and was still ignored; (b) it suggests that deeper structural obstacles (the self-reference foundation, the claim to universal scope, the institutional boundary-policing documented in §2.1) may be equally important.
+
+**Category theory's own history. ** Category theory itself was initially marginalised — Saunders Mac Lane and Samuel Eilenberg faced resistance when introducing it in the 1940s, with some mathematicians deriding it as "abstract nonsense" [15]. It achieved mainstream status only after decades of demonstrated utility in algebraic topology and algebraic geometry. This constrains the hypothesis by showing that marginalisation is not permanent — but that mainstreaming requires operational value (theorems, proofs, computations) that the six marginalised formalisms, in their current form, have not provided.
+
+**The operational-value gap. ** Category theory, information theory, game theory, and network theory all crossed disciplinary boundaries successfully. They did so by providing operational value: category theory proved theorems in algebraic topology; information theory enabled practical communication systems; game theory solved economic problems. If the six marginalised formalisms contain equivalent mathematical content, why have they not produced equivalent operational value? The hypothesis must explain this gap — and the explanation may be that operational value is a function of notation accessibility: a truth imprisoned in inaccessible notation produces no theorems.
+
+**The burden of proof.** The scaffold-stripping hypothesis, by claiming that six marginalised formalisms contain valid invariants, bears the burden of proof. The hypothesis is falsifiable: if any formalism's invariant cannot be expressed in category-theoretic language without loss, the hypothesis is constrained for that formalism. The sceptic's strongest constraint is that, after 50+ years, no such proof has been produced — and the hypothesis's proponents (including this paper) have not yet met the burden.
+
+[15] Mac Lane, S. (1971). *Categories for the Working Mathematician.* Springer. [ISBN: 978-0387984032]
+
 
 ## 5. Application: A Distinction Calculus for Numbers (DCN)
 
@@ -308,19 +327,19 @@ The broader claim is this: **when a formalism fails to achieve mainstream adopti
 
 ## References
 
-[1] Spencer-Brown, G. (1969). *Laws of Form.* George Allen and Unwin.
+[1] Spencer-Brown, G. (1969). *Laws of Form.* George Allen and Unwin. [ISBN: 978-0045100205. Reprint: Bohmeier Verlag, 2011, ISBN: 978-3890945804.]
 
 [2] Peirce, C. S. (c. 1897). Existential Graphs. In *Collected Papers of Charles Sanders Peirce*, Vol. 4. Harvard University Press.
 
-[3] Beer, S. (1972). *Brain of the Firm.* Allen Lane.
+[3] Beer, S. (1972). *Brain of the Firm.* Allen Lane. [ISBN: 978-0471948384]
 
-[4] Thom, R. (1972). *Stabilité Structurelle et Morphogenèse.* W. A. Benjamin. English translation: *Structural Stability and Morphogenesis* (1975).
+[4] Thom, R. (1972). *Stabilité Structurelle et Morphogenèse.* W. A. Benjamin. English translation: *Structural Stability and Morphogenesis* (1975), W. A. Benjamin. [ISBN: 978-0201406856]
 
-[5] Alexander, C., Ishikawa, S., & Silverstein, M. (1977). *A Pattern Language.* Oxford University Press.
+[5] Alexander, C., Ishikawa, S., & Silverstein, M. (1977). *A Pattern Language.* Oxford University Press. [ISBN: 978-0195019193]
 
-[6] Günther, G. (c. 1960s-70s). Polycontextural Logic. Collected in *Beiträge zur Grundlegung einer operationsfähigen Dialektik* (3 vols). Felix Meiner Verlag.
+[6] Günther, G. (c. 1960s-70s). Polycontextural Logic. Collected in *Beiträge zur Grundlegung einer operationsfähigen Dialektik* (3 vols). Felix Meiner Verlag. [ISBN: 978-3787303755]
 
-[7] Obsidian note `_26190130638.md` (2026-07-09). "Laws of Form: First Impression Problem, Credibility Cascade, and Cult Dynamic."
+[7] Davis, M. (1965). "The Undecidable: Basic Papers on Undecidable Propositions, Unsolvable Problems and Computable Functions." Raven Press. [ISBN: 978-0911216011] — for the foundational tension between self-referential systems and formal axiomatics. Also: Spencer-Brown, G. (1969). *Laws of Form*, pp. xxiii-xxviii, for the author's own "first impression" framing of the work.
 
 [8] Kauffman, L. H. (2013). Laws of Form and Topology: Presentation and Discussion. *Cybernetics & Human Knowing*, 20(3-4).
 

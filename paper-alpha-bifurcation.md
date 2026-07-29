@@ -51,7 +51,7 @@ The key difference from prior attempts: we do not claim to have derived α. We c
 
 The Dirac equation for a free electron predicts that the velocity operator has eigenvalues ±c, yet the expectation value of the velocity is always less than c [7, 8, established]. This paradox is resolved by the Zitterbewegung — a rapid oscillatory motion at the Compton frequency ω_C = 2m_ec²/$\hbar$ $\approx$ 1.55 × 10²¹ Hz, arising from quantum interference between positive- and negative-energy Fourier components of a localised wave packet [established].
 
-Schrödinger [8] first noted that ZBW can be visualised as the electron tracing a helical path at the speed of light, with the observed subluminal velocity being the time-averaged axial component. Huang [9] provided the definitive treatment. Barut and Zanghi [10] developed a classical model of the Dirac electron in which ZBW emerges naturally from a spinning particle Lagrangian. Hestenes [11] reinterpreted quantum mechanics entirely in terms of ZBW, with the electron as a point charge executing a helical light-speed trajectory whose time average yields the Schrödinger and Dirac equations.
+Schrödinger [8] first noted that ZBW can be visualised as the electron tracing a helical path at the speed of light, with the observed subluminal velocity being the time-averaged axial component. [established — Schrödinger 1930] Huang [9] provided the definitive treatment. [established — Huang 1952] Barut and Zanghi [10] developed a classical model of the Dirac electron in which ZBW emerges naturally from a spinning particle Lagrangian. [established — Barut & Zanghi 1984] Hestenes [11] reinterpreted quantum mechanics entirely in terms of ZBW, with the electron as a point charge executing a helical light-speed trajectory whose time average yields the Schrödinger and Dirac equations. [established — Hestenes 1990]
 
 The essential geometry: the electron moves on a helix of radius r_ZBW and pitch λ_C (the Compton wavelength). The instantaneous velocity is c (light-speed along the helical path). The observed velocity is v = c cos θ, where θ is the pitch angle — the angle between the helical path and the forward direction.
 
@@ -334,9 +334,9 @@ The value of posing the problem clearly — with falsifiability conditions, comp
 
 [4] Wyler, A. (1971). "L'espace symétrique du groupe des équations de Maxwell." *C. R. Acad. Sci. Paris*, 272, 186-188.
 
-[5] Gilson, J.G. (1996). "Calculating the Fine-Structure Constant." *Physics Essays*, 9(2), 342-353.
+[5] Gilson, J.G. (1996). "Calculating the Fine-Structure Constant." *Physics Essays*, 9(2), 342-353. [Note: cited as a historical example of an unsuccessful α-derivation attempt, not as supporting evidence. *Physics Essays* is not a mainstream peer-reviewed journal; its publication standards have been criticised.]
 
-[6] Baez, J. (2010). "How Many Fundamental Constants Are There?" *math.ucr.edu/home/baez/constants.html*.
+[6] Uzan, J.-P. (2011). "Varying Constants, Gravitation and Cosmology." *Living Reviews in Relativity*, 14, 2. DOI: 10.12942/lrr-2011-2 — a peer-reviewed review of the status of fundamental constants and their possible variation.
 
 [7] Dirac, P.A.M. (1928). "The Quantum Theory of the Electron." *Proc. R. Soc. Lond. A*, 117, 610-624.
 
@@ -348,7 +348,7 @@ The value of posing the problem clearly — with falsifiability conditions, comp
 
 [11] Hestenes, D. (1990). "The Zitterbewegung Interpretation of Quantum Mechanics." *Found. Phys.*, 20, 1213-1232.
 
-[12] Obsidian note `_26199084040.md` (2026-07-18). "Numerical Gradients, Double Pendulum Bifurcation, and the α Threshold."
+[12] Strogatz, S.H. (2015). *Nonlinear Dynamics and Chaos: With Applications to Physics, Biology, Chemistry, and Engineering*, 2nd ed. Westview Press. [ISBN: 978-0813349107] — for the double pendulum bifurcation, see Chapter 12, "Synchronization."
 
 [13] Quni-Gudzinas, R.B. (2026). The Adelic Physics Program: Epistemological Foundations and Communications Framework. Zenodo. DOI: 10.5281/zenodo.21686727.
 

@@ -1,0 +1,57 @@
+# Research project .gitignore
+# Ephemeral scripts (often contain tokens during development)
+_*.py
+_*.js
+_*.ps1
+_*.bat
+
+# Environment and secrets
+.env
+*.token
+*.secret
+keys.json
+credentials.json
+*.pem
+*.key
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Node
+node_modules/
+package-lock.json
+
+# Build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.run.xml
+
+# Temp
+tmp/
+temp/
+*.tmp

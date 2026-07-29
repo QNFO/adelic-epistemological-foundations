@@ -3,7 +3,7 @@ title: "Alpha as Bifurcation Parameter: The Helical Electron Stability Problem"
 author: "Rowan Brad Quni-Gudzinas"
 date: "2026-07-29"
 license: "CC-BY-4.0"
-doi: "10.5281/zenodo.21690631"
+doi: "10.5281/zenodo.21691059"
 status: "published"
 ---
 

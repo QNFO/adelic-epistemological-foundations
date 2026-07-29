@@ -3,7 +3,7 @@ title: "Poisson Summation as the Adelic Bridge: Why the Q vs R Debate Dissolves 
 author: "Rowan Brad Quni-Gudzinas"
 date: "2026-07-29"
 license: "CC-BY-4.0"
-doi: "10.5281/zenodo.21690832"
+doi: "10.5281/zenodo.21691078"
 status: "published"
 ---
 

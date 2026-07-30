@@ -25,7 +25,7 @@ This monograph collects three papers written on a single day — 2026-07-29 — 
 
 > **The real-number continuum is a flat projection that conceals qualitative phase boundaries, topological transitions, and the discrete combinatorial substrate of physical and mathematical law. Many "unsolved problems" are artifacts of representational choices — continuum, decimal base, container-based notation — rather than genuine ignorance. Moving to a representation whose native topology matches the phenomenon reveals invariants and dissolves pseudo-problems.**
 
-This thesis emerged from a synthesis of 12 Obsidian research notes spanning 2026-07-09 through 2026-07-29 [1]. The notes explored four convergent domains: (A) the marginalisation of cross-domain formal systems and the scaffold-stripping hypothesis; (B) the helical electron model, α as bifurcation parameter, and the three-constants problem; (C) the Q vs R "debate" and the adelic resolution via Poisson summation; and (D) the reconstruction of primality from distinction-based primitives.
+This thesis emerged from a synthesis of 12 preparatory research notes spanning 2026-07-09 through 2026-07-29 [1]. The notes explored four convergent domains: (A) the marginalisation of cross-domain formal systems and the scaffold-stripping hypothesis; (B) the helical electron model, α as bifurcation parameter, and the three-constants problem; (C) the Q vs R "debate" and the adelic resolution via Poisson summation; and (D) the reconstruction of primality from distinction-based primitives.
 
 ### I.2 The Three Papers
 
@@ -267,7 +267,7 @@ The frontier remains open. The variational problem (P2) awaits a solution. The c
 
 ## References
 
-[1] 12 Obsidian research notes, 2026-07-09 through 2026-07-29. Consolidated in: Quni-Gudzinas, R.B. (2026). The Adelic Physics Program: Epistemological Foundations and Communications Framework. Zenodo. DOI: 10.5281/zenodo.21686727.
+[1] 12 preparatory research notes, 2026-07-09 through 2026-07-29. Consolidated in: Quni-Gudzinas, R.B. (2026). The Adelic Physics Program: Epistemological Foundations and Communications Framework. Zenodo. DOI: 10.5281/zenodo.21686727.
 
 [2] Cross-Domain Consilience Audit: `artifacts/consilience-gate.md`. adelic-epistemological-foundations project repository, 2026-07-29.
 

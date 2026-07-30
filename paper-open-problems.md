@@ -21,7 +21,7 @@ The Adelic Physics Programme has produced six published papers spanning the nota
 
 ### 1.1 What Was Achieved
 
-The Adelic Physics Programme, built on 12 preparatory Obsidian research notes (2026-07-09 through 2026-07-29) and consolidated in the adelic-epistemological-foundations project, produced six published papers totalling 86 pages:
+The Adelic Physics Programme, built on 12 preparatory research notes (2026-07-09 through 2026-07-29) and consolidated in the adelic-epistemological-foundations project, produced six published papers totalling 86 pages:
 
 | Paper | Title | DOI | Pages |
 |:------|:------|:----|:------|

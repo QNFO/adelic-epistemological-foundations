@@ -1,0 +1,16 @@
+{
+    "title": "Alpha as Bifurcation Parameter: The Helical Electron Stability Problem",
+    "creators": [{"name": "Rowan Brad Quni-Gudzinas", "orcid": "0009-0002-4317-5604"}],
+    "description": "The fine-structure constant alpha ~ 1/137 has resisted derivation for a century. We propose that alpha is a critical eigenvalue of a geometric stability condition: the electron's Zitterbewegung is modelled as a classical light-speed helical null-curve in Minkowski space. The pitch angle separates three regimes: alpha=0 (free line), alpha~1/137 (stable helix), alpha→∞ (confined circle). We conjecture that alpha~1/137 is the unique stationary point of a curvature-torsion energy functional and pose the helical stability problem in precise mathematical terms. This paper does not solve the problem; it identifies it and provides five specific, dated falsifiability conditions.",
+    "access_right": "open",
+    "license": "CC-BY-4.0",
+    "upload_type": "publication",
+    "publication_type": "workingpaper",
+    "keywords": ["fine-structure constant", "Zitterbewegung", "helical null-curve", "bifurcation theory", "electron structure", "fundamental constants", "adelic physics", "variational problem"],
+    "related_identifiers": [
+        {"relation": "cites", "identifier": "10.5281/zenodo.20108536"},
+        {"relation": "cites", "identifier": "10.5281/zenodo.21686727"},
+        {"relation": "cites", "identifier": "10.5281/zenodo.21335853"},
+        {"relation": "isSupplementedBy", "identifier": "https://github.com/QNFO/adelic-epistemological-foundations"}
+    ]
+}

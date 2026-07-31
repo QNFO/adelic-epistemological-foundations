@@ -21,7 +21,7 @@ Six formal systems — Laws of Form (Spencer-Brown), Existential Graphs (Peirce)
 
 ### 1.1 The Puzzle of Marginalised Formalisms
 
-The twentieth century produced several ambitious formal systems that claimed to capture universal structural patterns — and failed to achieve mainstream adoption. George Spencer-Brown's *Laws of Form* [1] proposed that a single primitive act (drawing a distinction) could generate all of mathematics. Charles Sanders Peirce's Existential Graphs [2] offered a diagrammatic logic claimed to be more fundamental than algebraic notation. Stafford Beer's Viable System Model [3] modelled organisational recursion. René Thom's Catastrophe Theory [4] classified discontinuous changes in continuous systems. Christopher Alexander's Pattern Language [5] proposed generative rules for built environments. Gotthard Günther's Polycontextural Logic [6] extended classical logic to multi-context reasoning.
+The twentieth century produced several ambitious formal systems that claimed to capture universal structural patterns — and failed to achieve mainstream adoption. George Spencer-Brown's *Laws of Form* [1] proposed that a single primitive act (drawing a distinction) could generate all of mathematics. [established — Spencer-Brown 1969] Charles Sanders Peirce's Existential Graphs [2] offered a diagrammatic logic claimed to be more fundamental than algebraic notation. [established — Peirce c.1897] Stafford Beer's Viable System Model [3] modelled organisational recursion. [established — Beer 1972] René Thom's Catastrophe Theory [4] classified discontinuous changes in continuous systems. [established — Thom 1972] Christopher Alexander's Pattern Language [5] proposed generative rules for built environments. [established — Alexander et al. 1977] Gotthard Günther's Polycontextural Logic [6] extended classical logic to multi-context reasoning. [established — Günther c.1960s-70s]
 
 None achieved the canonical status of set theory, category theory, or Kripke semantics. Why?
 
@@ -190,7 +190,7 @@ We now apply the scaffold-stripping methodology to a concrete domain: the natura
 
 ### 5.1 The Set-Theoretic Container View
 
-In ZFC, the number 5 is the set ${\emptyset, {\emptyset}, {\emptyset,{\emptyset}}, {\emptyset,{\emptyset},{\emptyset,{\emptyset}}}, {\emptyset,{\emptyset},{\emptyset,{\emptyset}},{\emptyset,{\emptyset},{\emptyset,{\emptyset}}}}}$. Primality is a property of the size of a container relative to the sizes of possible sub-container partitions. A prime is an indivisible box. The container metaphor is inescapable.
+In ZFC, the number 5 is the set ${\emptyset, {\emptyset}, {\emptyset,{\emptyset}}, {\emptyset,{\emptyset},{\emptyset,{\emptyset}}}, {\emptyset,{\emptyset},{\emptyset,{\emptyset}},{\emptyset,{\emptyset},{\emptyset,{\emptyset}}}}}$. [established] Primality is a property of the size of a container relative to the sizes of possible sub-container partitions. A prime is an indivisible box. The container metaphor is inescapable.
 
 This representation obscures primality. A child looking at the set-theoretic definition of 5 cannot see that it's prime — the property emerges only after defining multiplication as Cartesian product cardinalities and checking all possible factor pairs. The content (primality as metrical irreducibility) is imprisoned in the notation (nested containment).
 

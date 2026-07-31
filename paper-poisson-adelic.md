@@ -121,7 +121,7 @@ This means the Gaussian (or its p-adic analogue) is present at every single plac
 
 [SPECULATIVE] We conjecture that the Gaussian is not merely the simplest function invariant under the Fourier transform, but the *only* function that can serve as the universal kernel at all completions simultaneously. At the archimedean place, the Gaussian e^{-π x²} is invariant. At each p-adic place, the characteristic function 1_{Z_p} is invariant. The global test function on A_Q is the product of these local functions. Any deviation from the Gaussian at the archimedean place would break the self-duality of Q that underpins the Poisson summation formula — and therefore would break the functional equation of the zeta function.
 
-This is not a proof but a structural observation: the Gaussian appears to be mathematically forced, not chosen. It is the unique function that respects the self-duality of the rational numbers under the adelic Fourier transform.
+This is not a proof but a structural observation: [UNTESTED] the Gaussian appears to be mathematically forced, not chosen. (The proof for p-adic places is in Tate 1950; the global claim of uniqueness at all completions simultaneously requires verification beyond the local results.) It is the unique function that respects the self-duality of the rational numbers under the adelic Fourier transform.
 
 ---
 
